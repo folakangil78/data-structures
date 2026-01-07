@@ -1,12 +1,6 @@
 
 /**********************************************************
  *
- * Homework # 3 (Programming Assignment). This assignment has two parts, the first
- * being that you must complete select method(s) for an AVL Tree object provided
- * in file AVLTree.java. Second,is solving simple collection problems in file
- * TreeProblems.java. Specifically, you will be using the TreeSet and TreeMap Java
- * Collection Framework library.
- *
  * This main routine is a driver for testing the methods that you wrote within
  * the files 'AVLTree.java' and 'TreeProblems.java'. Your work will need to pass all
  * these tests for 100%

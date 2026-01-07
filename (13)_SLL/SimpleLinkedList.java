@@ -1,23 +1,6 @@
 /**
  * A simple linked list object. Its nodes are defined as an inner class.
  * 
- * COMP 271 FINAL ASSIGNMENT
- * 
- * Review class SimpleLinkedList below. It's a linked list object, quite similar
- * to our TrainLine, only instead of TrainStations it uses Nodes. The nodes are
- * defined as a class-within-the-class -- this is called an inner class and it's
- * a useful coding practice for simple situations like this one here.
- * 
- * Your job is to complete TWO methods in the SimpleLinkedList. You may NOT
- * modify any part of the class and you may not import ANYTHING. Your code
- * should be focused only within the two methods you are asked to write.
- * 
- * For this assignment, you may NOT use arrays or arraylists or anything else
- * other than the SimpleLinkedList data structure.
- * 
- * 1) Write method findMiddle() that finds and returns the middle node of
- * a SimpleListList. For example, if the SimpleLinkedList object is:
- * 
  * A -> null ... the middle node is A
  * 
  * When the SimpleLinkedList object is:
