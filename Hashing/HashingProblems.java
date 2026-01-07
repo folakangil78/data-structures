@@ -1,5 +1,4 @@
 /*
- * *** Francis Olakangil / Section 001 ***
  *
  * This HashingProblems object contains three methods / problems that you must
  * complete utilize the HashMap object within the Java's Collection Framework Library.

@@ -1,26 +1,4 @@
 
-/**********************************************************
- *
- * Homework #4 (Programming Assignment). This assignment has two parts:
- *   (1) The first being that you must complete the implementation of select
- *   methods within the Hash Map (Hash Table) object provided in file
- *   myHashMap.java. This object is emulating the Hashmap object within
- *   Java's Collection Framework Library.
- *   (2) Second is solving simple collection problems contained within
- *   the file HashProblems.java, which are using the HashMap object contained
- *   within the Java Collection Framework library. Note that HashMap's internal
- *   implementation is using ArrayList (for buckets) and LinkedList (for the
- *   collision chain), which is the same approach being used by our implementation
- *   referred to above.
- *
- * This main file is a driver for testing these methods that you write within
- * the files 'myHashMap.java' and 'HashProblems.java'. Your work will need to
- * pass all the tests for 100%
- *
- *             *** DO NOT MANIPULATE / CHANGE THIS FILE ***
- *
- *********************************************************/
-
 import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.Arrays;
